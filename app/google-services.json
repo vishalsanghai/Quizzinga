@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663112078036",
+    "firebase_url": "https://quizzinga-lnmiit.firebaseio.com",
+    "project_id": "quizzinga-lnmiit",
+    "storage_bucket": "quizzinga-lnmiit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663112078036:android:0e326324078920a1796141",
+        "android_client_info": {
+          "package_name": "com.example.quizzinga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663112078036-r37c8s4tcfhjah0ls7hrl49bcn2l181r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizzinga",
+            "certificate_hash": "1db488a0f5a6ac5f61b0809239f4facd37beb11e"
+          }
+        },
+        {
+          "client_id": "663112078036-7oa4gtofij05jldrmedimi0u14m14jg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlxYXfxYH11pRbWA3bHIENt_HrE61pb64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663112078036-7oa4gtofij05jldrmedimi0u14m14jg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
